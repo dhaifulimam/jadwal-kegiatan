@@ -1,2 +1,2 @@
 # jadwal-kegiatan
-import database terlebih dahulu dengan nama dinaskoperasi
+import database pada phpmyadmin terlebih dahulu dengan nama dinaskoperasi
